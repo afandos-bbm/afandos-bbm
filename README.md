@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hi, my name is Alejandro Fandos 🖖💻</h1>
 
-<!--
-**alejandrofan2/alejandrofan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+```dart
+Developer alejandrofan2 = FullStackDeveloper(
+pronouns: ['he', 'him'],
+code: ['Dart','Java', 'Typescript', 'HTML', 'CSS'],
+tools: ['Flutter', 'Node', 'Express.js', 'Docker', 'Git Actions']
+);
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api?username=alejandrofan2&count_private=true&show_icons=true&theme=radical&hide_rank=true&custom_title=My%20stats">
+</td>
+</tr>
+</table>
